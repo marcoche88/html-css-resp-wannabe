@@ -110,5 +110,15 @@ img {
     float: none;
   } 
 
-  
+  /* BLOCCO PERCHE */
+  #why .row {
+    background-color: rgb(242, 241, 209);
+  }
+
+  #why .row>.first,
+  #why .row>.second,
+  #why .row>.third {
+    margin-top: 20px;
+  }
+
 }
